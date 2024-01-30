@@ -1,11 +1,4 @@
-<a href="https://www.hareketligifler.net/cat-meslekler-48.htm"><img src="https://www.hareketligifler.net/data/media/48/meslek-hareketli-resim-0086.gif" border="0" alt="meslek-hareketli-resim-0086" /></a>
-    .kutu5 {
-            width: 150px;
-            height: 150px;
-            position: relative;
-            animation-name: cssanimasyonlar5;
-            animation-duration: 3s;
-        }
+<a href="https://www.hareketligifler.net/cat-kuslar-230.htm"><img src="https://www.hareketligifler.net/data/media/230/kus-hareketli-resim-0461.gif" border="0" alt="kus-hareketli-resim-0461" /></a>
 
 
 
