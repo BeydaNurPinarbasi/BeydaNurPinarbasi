@@ -2,7 +2,6 @@
   <img src="https://www.hareketligifler.net/data/media/230/kus-hareketli-resim-0417.gif" border="0" alt="kus-hareketli-resim-0417" />
 </a>
 
-
 Hello, welcome to my profile.
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Beyda+Nur+Pinarbasi!;Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -32,26 +31,26 @@ Hello, welcome to my profile.
 
 ## 📊 GitHub Stats
 
-![Beyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beydanurpinarbasi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beydanurpinarbasi&layout=compact&theme=radical)
+![Beyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeydaNurPinarbasi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeydaNurPinarbasi&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beydanurpinarbasi&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BeydaNurPinarbasi&theme=radical)
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=beydanurpinarbasi&theme=github)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BeydaNurPinarbasi&theme=github)
 
 ---
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=beydanurpinarbasi&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BeydaNurPinarbasi&theme=radical)
 
 ---
 
