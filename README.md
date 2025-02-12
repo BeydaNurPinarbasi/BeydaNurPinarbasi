@@ -4,7 +4,8 @@ Hello, welcome to my profile.
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Beyda+Nur+P%C4%B1narba%C5%9F%C4%B1!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-![GitHub Banner](https://your-image-url.com)
+![GitHub Banner](![Uploading image.png…]()
+)
 
 ## 🚀 About Me
 👋 Hi, I'm **Beyda Nur Pınarbaşı**, a passionate **Full-Stack Developer** focusing on **React, Next.js, TypeScript, and Firebase**. I love building modern, user-friendly, and high-performance applications! ✨
