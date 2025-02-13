@@ -7,7 +7,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Beyda+Nur+Pinarbasi!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 <!-- Banner Image -->
-![GitHub Banner](https://github.com/user-attachments/assets/811d5daa-d889-48ca-9ded-dc2985366ef1)
+![GitHub Banner](https://github.com/user-attachments/assets/b6a0bc47-2a22-4ad2-bab1-6f20eedd77dd)
 
 ## 🚀 About Me
 👋 Hello, I am Beyda Nur. I develop projects using React, React Native TypeScript. I love developing modern, user-friendly and high-performance applications! ✨
