@@ -2,7 +2,7 @@
   <img src="https://www.hareketligifler.net/data/media/230/kus-hareketli-resim-0417.gif" border="0" alt="kus-hareketli-resim-0417" />
 </a>
 
-Hello, welcome to my profile.
+
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Beyda+Nur+Pinarbasi!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
