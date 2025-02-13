@@ -39,20 +39,7 @@ Hello, welcome to my profile.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BeydaNurPinarbasi&theme=radical)
 
----
-
-## 📈 Activity Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BeydaNurPinarbasi&theme=github)
-
----
-
-## ⏱️ WakaTime Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BeydaNurPinarbasi&theme=radical)
-
----
-
+----
 ## 🌍 Connect with Me
 
 📧 [Email](mailto:beydanur.pinarbasi@gmail.com)  
