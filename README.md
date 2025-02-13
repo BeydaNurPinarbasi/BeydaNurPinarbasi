@@ -10,12 +10,11 @@ Hello, welcome to my profile.
 ![GitHub Banner](https://github.com/user-attachments/assets/811d5daa-d889-48ca-9ded-dc2985366ef1)
 
 ## 🚀 About Me
-👋 Hi, I'm **Beyda Nur Pinarbasi**, a passionate **Full-Stack Developer** focusing on **React, Next.js, TypeScript, and Firebase**. I love building modern, user-friendly, and high-performance applications! ✨
+👋 Hello, I am Beyda Nur. I develop projects using React, React Native TypeScript. I love developing modern, user-friendly and high-performance applications! ✨
 
-- 🔭 Currently working on **React Native & Web Projects**
-- 🌱 Learning **Laravel & Backend Development**
-- 💬 Ask me about **React, TypeScript, Firebase, and Tailwind CSS**
-- ⚡ Fun fact: I love photography and nature! 📸🌿
+🔭 I'm currently working on React Native and Web Projects
+💬 You can ask me questions about React, TypeScript, Firebase and Tailwind CSS 
+⚡ I love photography, technology and machines 📸🌿
 
 ---
 
